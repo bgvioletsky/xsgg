@@ -9,6 +9,10 @@
     "香色闺阁",
     "源转换"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgvioletsky/xsgg.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
